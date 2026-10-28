@@ -1,0 +1,19 @@
+System Information Commands
+Aim
+To execute uptime, date, and mv commands.
+Theory
+uptime Command
+Shows system running time.
+uptime
+date Command
+Displays current date and time.
+date
+mv Command
+Moves or renames files.
+mv file1.txt file2.txt
+Procedure
+1.	Check system uptime. 
+2.	Display current date. 
+3.	Rename a file using mv. 
+Result
+Successfully executed uptime, date, and mv commands.

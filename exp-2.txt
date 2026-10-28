@@ -1,0 +1,20 @@
+File Viewing Commands
+Aim
+To execute and understand the usage of less, more and vi commands.
+Theory
+less Command
+Displays file contents page by page.
+less filename.txt
+more Command
+Displays file contents one screen at a time.
+more filename.txt
+vi Command
+Text editor used to create and edit files.
+vi filename.txt
+Procedure
+1.	Create a text file. 
+2.	Open the file using less. 
+3.	Open the file using more. 
+4.	Edit the file using vi. 
+Result
+Successfully executed file viewing and editing commands.

@@ -1,0 +1,35 @@
+Basic File and User Management Commands
+Aim
+To execute and understand the usage of rm, users, and tree commands in Kali Linux.
+Theory
+rm Command
+The rm command is used to remove files and directories from the Linux file system.
+Syntax:
+rm filename
+Example:
+touch test.txt
+rm test.txt
+Users Command
+Displays the usernames of users currently logged into the system.
+Syntax:
+users
+tree Command
+Displays directories and files in a tree-like structure.
+Syntax:
+tree
+Procedure
+1.	Open Kali Linux Terminal. 
+2.	Create a sample file. 
+3.	Execute the rm command. 
+4.	Execute the users command. 
+5.	Execute the tree command. 
+Sample Output
+kali@kali:~$ users
+kali
+kali@kali:~$ tree
+.
+├── Documents
+├── Downloads
+└── Desktop
+Result
+Successfully executed rm, users, and tree commands in Kali Linux

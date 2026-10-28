@@ -1,0 +1,16 @@
+Navigation and Copy Commands
+Aim
+To execute cd, cp, and ls commands.
+Theory
+cd Command
+Changes the current directory.
+cd Documents
+cp Command
+Copies files and directories.
+cp file1.txt backup.txt
+Procedure
+1.	Navigate between directories using cd. 
+2.	Copy files using cp. 
+3.	Verify copied files using ls. 
+Result
+Successfully executed cd, cp, and ls commands.

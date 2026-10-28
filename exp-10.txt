@@ -1,0 +1,29 @@
+Aim:
+To execute and understand the usage of Free, Sort, and History commands in Kali Linux.
+Commands:
+free
+free -h
+
+sort file.txt
+sort -r file.txt
+
+history
+history 10
+Procedure:
+1.	Open Terminal in Kali Linux. 
+2.	Execute the free command to view memory usage. 
+3.	Create a text file and use the sort command. 
+4.	Execute the history command to display previously executed commands. 
+Sample Output:
+$ free -h
+Mem: 7.6Gi  3.2Gi  2.1Gi
+$ sort file.txt
+Apple
+Banana
+Orange
+$ history
+1 ls
+2 pwd
+3 nmap localhost
+Result:
+Successfully executed Free, Sort, and History commands in Kali Linux. 

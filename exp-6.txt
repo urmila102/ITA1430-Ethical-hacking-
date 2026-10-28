@@ -1,0 +1,19 @@
+File Creation and Download Commands
+Aim
+To execute touch, pwd, and wget commands.
+Theory
+touch Command
+Creates an empty file.
+touch sample.txt
+pwd Command
+Displays current working directory.
+pwd
+wget Command
+Downloads files from the internet.
+wget https://example.com/file.zip
+Procedure
+1.	Create a file using touch. 
+2.	Display current directory using pwd. 
+3.	Download a sample file using wget. 
+Result
+Successfully executed touch, pwd, and wget commands.

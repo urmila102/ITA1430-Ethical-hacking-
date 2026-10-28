@@ -1,0 +1,24 @@
+Nmap Service Version and OS Detection
+Aim
+To perform service version detection and operating system identification using Nmap.
+Theory
+Nmap (Network Mapper) is an open-source network scanning tool used for network discovery and security auditing.
+Commands
+i) Detect Service Versions
+nmap -sV 192.168.1.10
+Description:
+Determines the versions of services running on target ports.
+ii) Aggressive Scan
+nmap -A 192.168.1.10
+Description:
+Performs OS detection, version detection, script scanning, and traceroute.
+iii) Operating System Detection
+sudo nmap -O 192.168.1.10
+Description:
+Identifies the operating system running on the target host.
+Sample Output
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 8.2
+80/tcp   open  http    Apache 2.4
+Result
+Successfully performed service version detection and OS identification using Nmap

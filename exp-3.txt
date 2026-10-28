@@ -1,0 +1,26 @@
+Tree, Head and Tail Commands
+Aim
+To execute and understand the usage of tree, head, and tail commands.
+Theory
+head Command
+Displays the first 10 lines of a file.
+head filename.txt
+tail Command
+Displays the last 10 lines of a file.
+tail filename.txt
+Procedure
+1.	Create a text file containing multiple lines. 
+2.	Execute the head command. 
+3.	Execute the tail command. 
+4.	Display directory structure using tree. 
+Sample Output
+head student.txt
+1. Arun
+2. Bala
+3. Kumar
+tail student.txt
+18. Ravi
+19. Suresh
+20. Priya
+Result
+Successfully executed tree, head, and tail commands.

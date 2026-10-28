@@ -1,0 +1,21 @@
+Nmap Timing and Performance Commands
+Aim
+To perform IDS evasion and timing scans using Nmap.
+Theory
+Timing options control the speed and stealthiness of Nmap scans.
+Commands
+i) Polite IDS Evasion
+nmap -T2 192.168.1.10
+Description:
+Slows down scanning to reduce the chance of detection.
+ii) Normal Scan
+nmap -T3 192.168.1.10
+Description:
+Default balanced scanning speed.
+Procedure
+1.	Identify target IP address. 
+2.	Execute Nmap timing commands. 
+3.	Observe scan duration and results. 
+4.	Compare scan speeds. 
+Result
+Successfully executed Nmap timing and performance scans in Kali Linux.
